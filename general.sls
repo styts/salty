@@ -1,11 +1,20 @@
 vim-enhanced:
-  pkg:
-    - installed
+  pkg.installed
 
 zsh:
-  pkg:
-    - installed
+  pkg.installed
 
 git:
-  pkg:
-    - installed
+  pkg.installed
+
+mosh:
+  pkg.installed
+
+htop:
+  pkg.installed
+
+tree:
+  pkg.installed
+
+ack:
+  pkg.installed
