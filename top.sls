@@ -1,4 +1,7 @@
 base:
   '*':
-    - general
+    - core
     - kirill
+  'web*':
+    - postgres
+    - nginx

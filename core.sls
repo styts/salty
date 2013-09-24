@@ -18,3 +18,6 @@ tree:
 
 ack:
   pkg.installed
+
+python-virtualenv:
+  pkg.installed
